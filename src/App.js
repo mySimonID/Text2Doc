@@ -9,7 +9,7 @@ function App() {
     <h1>Text2Doc</h1>
       <div className="row">
         <div className="wrapper">
-          <Text2Doc filename={'/content/example.txt'} />
+          <Text2Doc filename={`${process.env.PUBLIC_URL}/content/example.txt`} />
         </div>
       </div>
     </div>
