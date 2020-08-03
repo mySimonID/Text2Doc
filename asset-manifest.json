@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Text2Doc/static/css/main.0296d30a.chunk.css",
-    "main.js": "/Text2Doc/static/js/main.20132e2d.chunk.js",
-    "main.js.map": "/Text2Doc/static/js/main.20132e2d.chunk.js.map",
+    "main.js": "/Text2Doc/static/js/main.8d9cee3c.chunk.js",
+    "main.js.map": "/Text2Doc/static/js/main.8d9cee3c.chunk.js.map",
     "runtime-main.js": "/Text2Doc/static/js/runtime-main.1be7107f.js",
     "runtime-main.js.map": "/Text2Doc/static/js/runtime-main.1be7107f.js.map",
     "static/js/2.95f9cc14.chunk.js": "/Text2Doc/static/js/2.95f9cc14.chunk.js",
     "static/js/2.95f9cc14.chunk.js.map": "/Text2Doc/static/js/2.95f9cc14.chunk.js.map",
     "index.html": "/Text2Doc/index.html",
-    "precache-manifest.9ad71f63a99024d300e7a992528d109b.js": "/Text2Doc/precache-manifest.9ad71f63a99024d300e7a992528d109b.js",
+    "precache-manifest.81ccb030a39714d21b0c63e6c8f89c34.js": "/Text2Doc/precache-manifest.81ccb030a39714d21b0c63e6c8f89c34.js",
     "service-worker.js": "/Text2Doc/service-worker.js",
     "static/css/main.0296d30a.chunk.css.map": "/Text2Doc/static/css/main.0296d30a.chunk.css.map",
     "static/js/2.95f9cc14.chunk.js.LICENSE.txt": "/Text2Doc/static/js/2.95f9cc14.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.1be7107f.js",
     "static/js/2.95f9cc14.chunk.js",
     "static/css/main.0296d30a.chunk.css",
-    "static/js/main.20132e2d.chunk.js"
+    "static/js/main.8d9cee3c.chunk.js"
   ]
 }
