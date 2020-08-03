@@ -6,11 +6,12 @@ import Text2Doc from './components/Text2Doc'
 function App() {
   return (
     <div className="container">
-    <div className="row">
-    <div className="wrapper">
-      <Text2Doc filename={'/content/example.txt'} />
-    </div>
-    </div>
+    <h1>Text2Doc</h1>
+      <div className="row">
+        <div className="wrapper">
+          <Text2Doc filename={'/content/example.txt'} />
+        </div>
+      </div>
     </div>
   );
 }
