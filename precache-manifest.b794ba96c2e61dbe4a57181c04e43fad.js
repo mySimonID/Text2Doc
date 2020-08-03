@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a5cedc56c85050dd7e8e43fb597d46cc",
+    "revision": "13d2ca0320b0c94e0b4e92465e0016af",
     "url": "/Text2Doc/index.html"
   },
   {
-    "revision": "593482ca0c1e695ce84b",
+    "revision": "b56bcc46afcd011f0d11",
     "url": "/Text2Doc/static/css/main.0296d30a.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Text2Doc/static/js/2.95f9cc14.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "593482ca0c1e695ce84b",
-    "url": "/Text2Doc/static/js/main.8d9cee3c.chunk.js"
+    "revision": "b56bcc46afcd011f0d11",
+    "url": "/Text2Doc/static/js/main.54c2feb8.chunk.js"
   },
   {
     "revision": "4f9a2395685fd99163c4",
